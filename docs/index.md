@@ -5,4 +5,8 @@
 layout: page
 ---
 
-Releaseworks CloudCore is coming in 2019.
+Releaseworks CloudCore is a framework for building scalable, resilient and secure cloud platforms.
+
+Releaseworks CloudCore accelerates your journey to Continuous Delivery by combining industry-leading automation technology, upskilling academy and proven DevOps ways of working.
+
+Find out how Releaseworks CloudCore can help your software development team release better software, faster. [Contact Releaseworks today.](https://release.works/contact-us)
